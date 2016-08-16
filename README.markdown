@@ -12,11 +12,11 @@ I'll publish this code, despite it's many quirks. Perhaps someone has a use for 
 
 ## Installation
 
-`go get github.com/kch42/binproto`
+`go get github.com/silvasur/binproto`
 
 ## Documentation
 
-Either install the package and use a local godoc server or use [godoc.org](http://godoc.org/github.com/kch42/binproto)
+Either install the package and use a local godoc server or use [godoc.org](http://godoc.org/github.com/silvasur/binproto)
 
 ## Protocol definition
 

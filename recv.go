@@ -2,7 +2,7 @@ package binproto
 
 import (
 	"encoding/binary"
-	"github.com/kch42/kagus"
+	"github.com/silvasur/kagus"
 	"io"
 	"sync"
 )

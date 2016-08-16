@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"flag"
 	"fmt"
-	"github.com/kch42/binproto"
+	"github.com/silvasur/binproto"
 	"io"
 	"net"
 	"os"
